@@ -1,0 +1,3 @@
+Original Data
+Server=localhost
+Port=8080
